@@ -1,9 +1,8 @@
 ## About
-Sharing my personal progress and experience with 42 School Piscine, which started 20th January 2025 and ended 14th February 2025. Had close to none experience before joining, it was a challenging, demanding and fulfilling month.
+Sharing my personal progress and experience with 42 School Common Core, which started 10th April 2025 and it's still in progress.
 
-Everything I did during Piscine is in the [DuringPiscine](https://github.com/Chaudbrush/Piscine/tree/main/DuringPiscine) folder.
+Everything I did during Common Core is in the [Projects](https://github.com/Chaudbrush/Common_Core/tree/main/Projects) folder.
 
-After finishing the Piscine I came back for some exercises I wanted to complete, they are in the [AfterPiscine](https://github.com/Chaudbrush/Piscine/tree/main/AfterPiscine) folder.
 
 ---
 
@@ -14,19 +13,15 @@ Notably, the admission process, known as the Piscine, assesses candidates' codin
 
 ---
  
-### Piscine
-The "piscine" is a unique and intense coding boot camp-style program offered by 42 School. The term "piscine" is French for "swimming pool," which metaphorically refers to diving into a challenging and immersive learning experience. During the piscine, participants, often prospective students of 42 School, are given a condensed period, typically a few weeks, to fully immerse themselves in coding and problem-solving tasks.
+### Common Core
+At 42 School, the Common Core is a set of programming projects and challenges that serve as a common starting point for all students. It ensures that everyone develops a baseline proficiency in coding and problem-solving skills before moving on to more specialized areas of study. The Common Core is designed to help students familiarize themselves with the school's unique project-based learning model and to create a level playing field for diverse learners.
 
-The piscine serves as an entry point and selection process for 42 School's full curriculum. It's designed to evaluate candidates' coding skills, determination, and ability to handle the rigorous and collaborative learning style that 42 School employs. The challenges presented during the piscine range in complexity, requiring participants to work on various coding projects and exercises.
-
-Participating in the piscine is a way for candidates to showcase their coding abilities, learn about 42 School's unique learning environment, and earn a spot in the full program if they complete the challenges and demonstrate the required aptitude.
+Completing the Common Core demonstrates a student's ability to grasp fundamental coding concepts and effectively collaborate with peers, which are essential skills for success in 42 School's self-directed learning environment. After completing the Common Core, students have the freedom to explore more advanced projects and topics based on their interests and goals within the school's broader curriculum.
 
 ---
-
+<!--
 Projects  | Grade
 ---------|------
-Shell00   | <img src="https://img.shields.io/badge/score-55%20%2F%20100-success" />
-Shell01   | <img src="https://img.shields.io/badge/score-65%20%2F%20100-success" />
 C00   | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" />
 C01   | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
 C02   | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" />
@@ -41,8 +36,9 @@ Rush00 | <img src="https://img.shields.io/badge/score-0%20%2F%20100-red" />
 
 Exam  | Grade
 -------|------
-Exam00 | <img src="https://img.shields.io/badge/score-50%20%2F%20100-success" />
-Exam01 | <img src="https://img.shields.io/badge/score-80%20%2F%20100-success" />
-Exam02 | <img src="https://img.shields.io/badge/score-70%20%2F%20100-success" />
-Final Exam | <img src="https://img.shields.io/badge/score-72%20%2F%20100-success" />
-
+Exam02 | <img src="https://img.shields.io/badge/score-50%20%2F%20100-success" />
+Exam03 | <img src="https://img.shields.io/badge/score-80%20%2F%20100-success" />
+Exam04 | <img src="https://img.shields.io/badge/score-70%20%2F%20100-success" />
+---
+-->
+#### This is the way!
